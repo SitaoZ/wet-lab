@@ -1,5 +1,4 @@
-# Welcome to MkDocs
-
+# Welcome to Wet-Lab Protocol
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
